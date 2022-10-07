@@ -35,7 +35,7 @@ In this project, I use a fake API (DummyJson) to get products from it, to make t
    
 4. Open Local Server to view it in your browser
    ```sh
-   http://localhost:4200
+   http://localhost:3000
    ```
   
   
